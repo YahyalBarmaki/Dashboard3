@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dashboard 3</string>
+    <string name="hello">Hello</string>
+    <string name="yahya">Yahya</string>
+    <string name="search_element">Search element...</string>
+    <string name="finance">Finance</string>
+    <string name="goal">Goal</string>
+    <string name="health">Health</string>
+    <string name="lorem">Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="setting">Setting</string>
+</resources>
